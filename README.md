@@ -8,7 +8,7 @@ Este repositório contém as soluções do Desafio Técnico Tasken utilizando **
 - **banco_de_dados/**: Contém os scripts SQL para as questões relacionadas ao banco de dados.
 
 ## Como rodar
-- Para as questões de programação, basta rodar os arquivos `.py` com o Python 3.x.
+- Para as questões de programação, basta rodar os arquivos `.py` 
 - Para as questões de SQL, você pode rodar os scripts `.sql` no banco de dados  SQL Server.
 
 ## Linguagens e Ferramentas
